@@ -1,3 +1,4 @@
 const buildList = require('./buildList');
 
-buildList().then(data => console.log(JSON.stringify(data, null, 2)));
+const data = buildList();
+console.log(JSON.stringify(data, null, 2));

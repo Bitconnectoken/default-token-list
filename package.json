@@ -1,5 +1,5 @@
 {
-  "name": "@bitconnecttoken/default-token-list",
+  "name": "@bitconnectoken/default-token-list",
   "version": "1.0.0",
   "description": "The BitConnect default token list",
   "main": "build/bitdex-default.tokenlist.json",

@@ -1,11 +1,11 @@
 [
   {
     "name": "Bitconnect Token",
-    "address": "0x000000000000000000000000000000000000dEaD",
+    "address": "0x0000000000000000000000000000000000000000",
     "symbol": "BIT",
     "decimals": 18,
     "chainId": 81457,
-    "logoURI": "https://raw.githubusercontent.com/Bitconnectoken/assets/main/81457/0x000000000000000000000000000000000000dEaD.png"
+    "logoURI": "https://raw.githubusercontent.com/Bitconnectoken/assets/main/81457/0x0000000000000000000000000000000000000000.png"
   },
   {
     "name": "Wrapped Ether",
