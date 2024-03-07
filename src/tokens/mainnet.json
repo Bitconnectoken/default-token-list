@@ -41,10 +41,18 @@
   },
   {
     "name": "Blast Disperse",
-    "address": "0x000000000000000000000000000000000000dEaD",
+    "address": "0x0F8881FC1fCA1f5151FA4205D55922fFA15E707a",
     "symbol": "DISP",
     "decimals": 18,
     "chainId": 81457,
-    "logoURI": "https://raw.githubusercontent.com/Bitconnectoken/assets/main/81457/0x000000000000000000000000000000000000dEaD.png"
+    "logoURI": "https://raw.githubusercontent.com/Bitconnectoken/assets/main/81457/0x0F8881FC1fCA1f5151FA4205D55922fFA15E707a.png"
+  },
+  {
+    "name": "el wiwi",
+    "address": "0xaf0A3aCa354e0ce4a5a879a6b9c04200AB5Ea63e",
+    "symbol": "WIWI",
+    "decimals": 18,
+    "chainId": 81457,
+    "logoURI": "https://raw.githubusercontent.com/Bitconnectoken/assets/main/81457/0xaf0A3aCa354e0ce4a5a879a6b9c04200AB5Ea63e.png"
   }
 ]
