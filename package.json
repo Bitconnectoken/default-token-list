@@ -1,6 +1,6 @@
 {
   "name": "@bitconnectoken/default-token-list",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "The BitConnect default token list",
   "main": "build/bitdex-default.tokenlist.json",
   "scripts": {
