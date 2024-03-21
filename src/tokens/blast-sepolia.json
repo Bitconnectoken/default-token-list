@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Bitconnect Token",
+    "address": "0xa405D39f238cC01922AbFded7f35AC5746Def2DA",
+    "symbol": "BIT",
+    "decimals": 18,
+    "chainId": 168587773,
+    "logoURI": "https://raw.githubusercontent.com/Bitconnectoken/assets/main/168587773/0xa405D39f238cC01922AbFded7f35AC5746Def2DA.png"
+  },
+  {
+    "name": "Wrapped Ether",
+    "address": "0x4200000000000000000000000000000000000023",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 168587773,
+    "logoURI": "https://raw.githubusercontent.com/Bitconnectoken/assets/main/168587773/0x4200000000000000000000000000000000000023.png"
+  },
+  {
+    "name": "Rebasing USD",
+    "address": "0x4300000000000000000000000000000000000003",
+    "symbol": "USDB",
+    "decimals": 18,
+    "chainId": 168587773,
+    "logoURI": "https://raw.githubusercontent.com/Bitconnectoken/assets/main/168587773/0x4300000000000000000000000000000000000003.png"
+  },
+  {
+    "name": "Blastoise",
+    "address": "0xAe8172a7597B3bf4D3816c76DD8D9b2535262955",
+    "symbol": "TOISE",
+    "decimals": 18,
+    "chainId": 168587773,
+    "logoURI": "https://raw.githubusercontent.com/Bitconnectoken/assets/main/168587773/0xAe8172a7597B3bf4D3816c76DD8D9b2535262955.png"
+  },
+  {
+    "name": "Blast Disperse",
+    "address": "0x0F8881FC1fCA1f5151FA4205D55922fFA15E707a",
+    "symbol": "DISP",
+    "decimals": 18,
+    "chainId": 168587773,
+    "logoURI": "https://raw.githubusercontent.com/Bitconnectoken/assets/main/168587773/0x0F8881FC1fCA1f5151FA4205D55922fFA15E707a.png"
+  }
+]

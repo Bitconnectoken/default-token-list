@@ -1,5 +1,6 @@
 const { version } = require("../package.json");
 const mainnet = require("./tokens/mainnet.json");
+const blast_sepolia = require("./tokens/blast-sepolia.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -14,7 +15,7 @@ module.exports = function buildList() {
     tags: {},
     logoURI: "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
     keywords: ["bitconnect", "default"],
-    tokens: mainnet
+    tokens: [...mainnet, ...blast_sepolia]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {
